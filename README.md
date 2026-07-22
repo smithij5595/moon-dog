@@ -1,2 +1,2 @@
-# Party-Site
-Placeholder webpage where I can host details on parties that I'm hosting. Will be updated, interchanged when there's a new, upcoming party.
+# Moon Dog Track Club
+This website is for the Moon Dog Track Club, a youth program for track and field athletes in the Ithaca, NY region to build foundational skills and grow as athletes.
